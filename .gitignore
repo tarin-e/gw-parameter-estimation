@@ -4,6 +4,8 @@ gw-env
 # output generated signals
 models/
 
+plots/
+
 # DS Store
 *.DS_Store
 
